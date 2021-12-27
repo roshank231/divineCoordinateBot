@@ -22,7 +22,7 @@ The program will again return 2 coordinates, the closest safe coordinates and th
 
 **This is an extremely simple fetch and retrieve program that uses easly avalable tables for pure convenience and RTA time-save. it does NOT do any advanced calculations to find the best possible coordinate, simply the nearest nether cordinate to your current position**
 
-Also don't feel the need to go to the **exact** coordinates, its not that important.
+Also don't feel the need to go to the **exact** coordinates, especially for the portal divine coordinates. This is to simply give you a rough idea of a good blind spot.
 
 Example Output for Portal Divine:
 

@@ -5,10 +5,12 @@ To use just f3+c and then activate via a hotkey (can be rebinded)
 
 by default you can hold ctrl + alt and tap p to activate portal divine, the bot will use your f3+c coords to calculate the nearest viable portal divine spot. The bot will return 2 coordinates, the closest coordinate from the full list of possible coordinates, and another from a smaller list of more *statistically* better coordinates. 
 
-The information the bot uses is from the portalDivine blind sheet shared by λrias#3427 
+The information the bot uses is from the portalDivine blind sheet shared by λrias#3427.
+Additionly the Fossil divine spreadsheets created by Mathew Bolan.
 
 Source:
 https://docs.google.com/spreadsheets/d/1tTXczjzo4VCOxV2dpkj-SE5cELA9A2NyreRiQj6Bu8I/edit#gid=0
+https://imgur.com/gallery/hBexOcz
 
 Once you activate the hotkey a screen will apear for user input on direcction, then the coordinates will be pasted to your clipboard within seconds.
 

@@ -6,7 +6,7 @@ To use just f3+c and then activate via a hotkey (can be rebinded)
 by default you can hold ctrl + alt and tap p to activate portal divine, the bot will use your f3+c coords to calculate the nearest viable portal divine spot. The bot will return 2 coordinates, the closest coordinate from the full list of possible coordinates, and another from a smaller list of *statistically* better coordinates. 
 
 The information the bot uses is from the portalDivine blind sheet shared by λrias#3427.
-Additionly the Fossil divine spreadsheets created by Mathew Bolan.
+Additionally the Fossil divine spreadsheets created by Mathew Bolan.
 
 Sources:
 
@@ -14,13 +14,13 @@ Portal Divine: https://docs.google.com/spreadsheets/d/1tTXczjzo4VCOxV2dpkj-SE5cE
 
 Fossil Divine: https://imgur.com/gallery/hBexOcz
 
-Once you activate the hotkey a screen will apear for user input on direcction, then the coordinates will be pasted to your clipboard within seconds.
+Once you activate the hotkey a screen will appear for user input on direction, then the coordinates will be pasted to your clipboard within seconds.
 
 The program also supports Fossil divine. (by default) use the ctrl,alt + f with your coordinates pasted from f3+c and then select the targeted block. 
 
-The program will again return 2 coordinates, the closest safe coordinates and the closest Highroll divine coordinates.
+The program will again return 2 coordinates, the closest safe coordinates and the closest High roll divine coordinates.
 
-**This is an extremely simple fetch and retrieve program that uses easly avalable tables for pure convenience and RTA time-save. it does NOT do any advanced calculations to find the best possible coordinate, simply the nearest nether cordinate to your current position**
+**This is an extremely simple fetch and retrieve program that uses easily available tables for pure convenience and RTA time-save. it does NOT do any advanced calculations to find the best possible coordinate, simply the nearest nether coordinates to your current position**
 
 Also don't feel the need to go to the **exact** coordinates, especially for the portal divine coordinates. This is to simply give you a rough idea of a good blind spot.
 
@@ -30,4 +30,5 @@ Example Output for Portal Divine:
 
 Example Output for Fossil Divine:
 
--213,-142 (dist: 190 Blocks) | -158,-106 (dist: 128 Blocks) 
+-213,-142 (dist: 190 Blocks) | -158,-106 (dist: 128 Blocks)
+
